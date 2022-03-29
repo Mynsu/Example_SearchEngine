@@ -1,0 +1,8 @@
+packages
+Example_SearchEngine/*
+!Example_SearchEngine/Manager
+!Example_SearchEngine/Model
+!Example_SearchEngine/Program.cs
+!Example_SearchEngine/Stemming.cs
+
+*.sln
